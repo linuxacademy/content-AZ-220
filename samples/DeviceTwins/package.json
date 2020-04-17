@@ -1,0 +1,25 @@
+{
+  "name": "test-device-twin",
+  "version": "1.0.0",
+  "description": "Simulated IoT device using device twins.",
+  "main": "test-device-twin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxacademy/content-AZ-220.git"
+  },
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linuxacademy/content-AZ-220/issues"
+  },
+  "homepage": "https://github.com/linuxacademy/content-AZ-220#readme",
+  "dependencies": {
+    "chalk": "2.4.1",
+    "azure-iot-device": "^1.7.1",
+    "azure-iot-device-mqtt": "^1.7.1",
+    "azure-iothub": "^1.7.1"
+  }
+}
