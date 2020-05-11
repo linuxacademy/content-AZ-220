@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj",
+        "projectName": "SecurityProviderTpmSimulator",
+        "projectPath": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj",
+        "packagesPath": "C:\\Users\\iotdev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\security\\Samples\\SecurityProviderTpmSimulator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\iotdev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Azure.Devices.Provisioning.Security.Tpm": {
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "target": "Package",
+              "version": "[2.6.0-beta2, )"
+            },
+            "Microsoft.TSS": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -3,7 +3,7 @@ var Client = require('azure-iot-device').Client;
 var Protocol = require('azure-iot-device-mqtt').Mqtt;
 const chalk = require('chalk');
 
-var connectionString = '<device-id>';
+var connectionString = 'HostName=IoTHub-SAJ.azure-devices.net;DeviceId=IoTTwin;SharedAccessKey=7llQ8o398j61uLhqjVyjk7dDXnMJdy6SP5q3oJD8Ysg=';
 var client = Client.fromConnectionString(connectionString, Protocol);
 
 var initConfigChange = function(twin, patch) {

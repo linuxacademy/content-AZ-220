@@ -1,0 +1,12 @@
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\DeviceStreamingSample\bin\Debug\netcoreapp2.0\DeviceClientStreamingSample.deps.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\DeviceStreamingSample\bin\Debug\netcoreapp2.0\DeviceClientStreamingSample.runtimeconfig.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\DeviceStreamingSample\bin\Debug\netcoreapp2.0\DeviceClientStreamingSample.runtimeconfig.dev.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\DeviceStreamingSample\bin\Debug\netcoreapp2.0\DeviceClientStreamingSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\DeviceStreamingSample\bin\Debug\netcoreapp2.0\DeviceClientStreamingSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\DeviceStreamingSample\obj\Debug\netcoreapp2.0\DeviceClientStreamingSample.csprojAssemblyReference.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\DeviceStreamingSample\obj\Debug\netcoreapp2.0\DeviceClientStreamingSample.csproj.CoreCompileInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\DeviceStreamingSample\obj\Debug\netcoreapp2.0\DeviceClientStreamingSample.AssemblyInfoInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\DeviceStreamingSample\obj\Debug\netcoreapp2.0\DeviceClientStreamingSample.AssemblyInfo.cs
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\DeviceStreamingSample\obj\Debug\netcoreapp2.0\DeviceClientStreamingSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\DeviceStreamingSample\obj\Debug\netcoreapp2.0\DeviceClientStreamingSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\DeviceStreamingSample\obj\Debug\netcoreapp2.0\DeviceClientStreamingSample.genruntimeconfig.cache

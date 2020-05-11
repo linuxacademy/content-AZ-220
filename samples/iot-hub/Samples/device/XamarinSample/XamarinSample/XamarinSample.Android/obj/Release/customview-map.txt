@@ -1,0 +1,5 @@
+android.support.design.widget.TabLayout;obj\Release\res\layout\tabbar.xml
+android.support.v7.widget.Toolbar;obj\Release\res\layout\toolbar.xml
+item;obj\Release\res\values\styles.xml
+resources;obj\Release\res\values\styles.xml
+style;obj\Release\res\values\styles.xml

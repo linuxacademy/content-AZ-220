@@ -1,0 +1,181 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "SecurityProviderTpmSimulator/1.0.0": {
+        "dependencies": {
+          "Microsoft.Azure.Devices.Provisioning.Security.Tpm": "1.2.2",
+          "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.6.0-beta2",
+          "Microsoft.TSS": "2.1.1",
+          "NETStandard.Library": "2.0.3",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "SecurityProviderTpmSimulator.dll": {}
+        }
+      },
+      "Microsoft.Azure.Devices.Provisioning.Security.Tpm/1.2.2": {
+        "dependencies": {
+          "Microsoft.Azure.Devices.Shared": "1.20.0",
+          "Microsoft.TSS": "2.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Azure.Devices.Provisioning.Security.Tpm.dll": {
+            "assemblyVersion": "1.2.2.0",
+            "fileVersion": "1.2.2.0"
+          }
+        }
+      },
+      "Microsoft.Azure.Devices.Shared/1.20.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Azure.Devices.Shared.dll": {
+            "assemblyVersion": "1.20.0.0",
+            "fileVersion": "1.20.0.0"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.FxCopAnalyzers/2.6.0-beta2": {
+        "dependencies": {
+          "Microsoft.CodeQuality.Analyzers": "2.6.0-beta2",
+          "Microsoft.NetCore.Analyzers": "2.6.0-beta2",
+          "Microsoft.NetFramework.Analyzers": "2.6.0-beta2",
+          "Text.Analyzers": "2.6.0-beta2"
+        }
+      },
+      "Microsoft.CodeQuality.Analyzers/2.6.0-beta2": {},
+      "Microsoft.CSharp/4.7.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.CSharp.dll": {
+            "assemblyVersion": "4.0.5.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "Microsoft.NetCore.Analyzers/2.6.0-beta2": {},
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.NetFramework.Analyzers/2.6.0-beta2": {},
+      "Microsoft.TSS/2.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/TSS.Net.dll": {
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.0"
+          }
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Text.Analyzers/2.6.0-beta2": {}
+    }
+  },
+  "libraries": {
+    "SecurityProviderTpmSimulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Azure.Devices.Provisioning.Security.Tpm/1.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s1j3b/al5II9uxiOcbwVtCJQzHAKM+99NU1bl9IQY0zQZD/15A2Msx1Dk6+U65Bo6pwqZC1jw42wbuVKpuR6nw==",
+      "path": "microsoft.azure.devices.provisioning.security.tpm/1.2.2",
+      "hashPath": "microsoft.azure.devices.provisioning.security.tpm.1.2.2.nupkg.sha512"
+    },
+    "Microsoft.Azure.Devices.Shared/1.20.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9czdErQ/nwNmCpBqr9eLojKt4+tkaWwhYVZx1JmmxfXJZNpuBCwUYEs5KmepDpOBTLNhMURpQGpEoAxhsHTFnQ==",
+      "path": "microsoft.azure.devices.shared/1.20.0",
+      "hashPath": "microsoft.azure.devices.shared.1.20.0.nupkg.sha512"
+    },
+    "Microsoft.CodeAnalysis.FxCopAnalyzers/2.6.0-beta2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2iATjDFqrjuM3FyG2TO2whoilSuIsKEazULPYLPEPOGtquWcZiK/LsojQWjFdGNmstyi8F9tT3zl6YBJ7Fw0ZQ==",
+      "path": "microsoft.codeanalysis.fxcopanalyzers/2.6.0-beta2",
+      "hashPath": "microsoft.codeanalysis.fxcopanalyzers.2.6.0-beta2.nupkg.sha512"
+    },
+    "Microsoft.CodeQuality.Analyzers/2.6.0-beta2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lf5oxABy30W+6Cplhv8AsZvMC34wCPSva2KVv8mcA6if2WAz1qUJl+F3ax+kF0OXajMC7PAcYNZJtmfy62TPuw==",
+      "path": "microsoft.codequality.analyzers/2.6.0-beta2",
+      "hashPath": "microsoft.codequality.analyzers.2.6.0-beta2.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.NetCore.Analyzers/2.6.0-beta2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5qFwlAe01MzxpkRxVjvLNSG634qR8HDtugXElOdJFXFUZdIXXhZYHqk7GVPqP9PqTvH2ccgELdmG2N3Ip49hpw==",
+      "path": "microsoft.netcore.analyzers/2.6.0-beta2",
+      "hashPath": "microsoft.netcore.analyzers.2.6.0-beta2.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.NetFramework.Analyzers/2.6.0-beta2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OsOpKbLm0F9qpyKhZe9C/1HxrPNtv1kwhM+cOXtgP7XdeXfTSdZGktxWXfX3JxYCyYBWf/Ab37sNzCpOGrXgBQ==",
+      "path": "microsoft.netframework.analyzers/2.6.0-beta2",
+      "hashPath": "microsoft.netframework.analyzers.2.6.0-beta2.nupkg.sha512"
+    },
+    "Microsoft.TSS/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-87DBN+4ANSFO8TDRmFjjTBl6PL7tmrfofmxki4LUnE34gOdyQiBfJK/X1QSu0UfCGUtpoBVv/tD985s4FDpKiA==",
+      "path": "microsoft.tss/2.1.1",
+      "hashPath": "microsoft.tss.2.1.1.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Text.Analyzers/2.6.0-beta2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xb+x19JN/RI+trkzZhJyDmfIDDa/xZ0b4skqKBHiZXI3LX3GZLLelB3V26imJuN75qnugnZ0XASyMULg6LoswQ==",
+      "path": "text.analyzers/2.6.0-beta2",
+      "hashPath": "text.analyzers.2.6.0-beta2.nupkg.sha512"
+    }
+  }
+}

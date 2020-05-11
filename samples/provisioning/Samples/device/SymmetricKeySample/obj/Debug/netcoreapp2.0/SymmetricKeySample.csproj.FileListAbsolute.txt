@@ -1,0 +1,12 @@
+C:\Users\iotdev\Source\azure-iot-samples-csharp\provisioning\Samples\device\SymmetricKeySample\bin\Debug\netcoreapp2.0\SymmetricKeySample.deps.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\provisioning\Samples\device\SymmetricKeySample\bin\Debug\netcoreapp2.0\SymmetricKeySample.runtimeconfig.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\provisioning\Samples\device\SymmetricKeySample\bin\Debug\netcoreapp2.0\SymmetricKeySample.runtimeconfig.dev.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\provisioning\Samples\device\SymmetricKeySample\bin\Debug\netcoreapp2.0\SymmetricKeySample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\provisioning\Samples\device\SymmetricKeySample\bin\Debug\netcoreapp2.0\SymmetricKeySample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\provisioning\Samples\device\SymmetricKeySample\obj\Debug\netcoreapp2.0\SymmetricKeySample.csprojAssemblyReference.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\provisioning\Samples\device\SymmetricKeySample\obj\Debug\netcoreapp2.0\SymmetricKeySample.csproj.CoreCompileInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\provisioning\Samples\device\SymmetricKeySample\obj\Debug\netcoreapp2.0\SymmetricKeySample.AssemblyInfoInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\provisioning\Samples\device\SymmetricKeySample\obj\Debug\netcoreapp2.0\SymmetricKeySample.AssemblyInfo.cs
+C:\Users\iotdev\Source\azure-iot-samples-csharp\provisioning\Samples\device\SymmetricKeySample\obj\Debug\netcoreapp2.0\SymmetricKeySample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\provisioning\Samples\device\SymmetricKeySample\obj\Debug\netcoreapp2.0\SymmetricKeySample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\provisioning\Samples\device\SymmetricKeySample\obj\Debug\netcoreapp2.0\SymmetricKeySample.genruntimeconfig.cache

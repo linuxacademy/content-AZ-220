@@ -1,0 +1,11 @@
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\MessageSample\bin\Debug\netcoreapp2.1\MessageSample.deps.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\MessageSample\bin\Debug\netcoreapp2.1\MessageSample.runtimeconfig.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\MessageSample\bin\Debug\netcoreapp2.1\MessageSample.runtimeconfig.dev.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\MessageSample\bin\Debug\netcoreapp2.1\MessageSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\MessageSample\bin\Debug\netcoreapp2.1\MessageSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\MessageSample\obj\Debug\netcoreapp2.1\MessageSample.csproj.CoreCompileInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\MessageSample\obj\Debug\netcoreapp2.1\MessageSample.AssemblyInfoInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\MessageSample\obj\Debug\netcoreapp2.1\MessageSample.AssemblyInfo.cs
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\MessageSample\obj\Debug\netcoreapp2.1\MessageSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\MessageSample\obj\Debug\netcoreapp2.1\MessageSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\MessageSample\obj\Debug\netcoreapp2.1\MessageSample.genruntimeconfig.cache

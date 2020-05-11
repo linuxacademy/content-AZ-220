@@ -1,0 +1,13 @@
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\CleanUpDevicesSample\bin\Debug\netcoreapp2.1\csharp_devices_list.csv
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\CleanUpDevicesSample\bin\Debug\netcoreapp2.1\CleanUpDevicesSample.deps.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\CleanUpDevicesSample\bin\Debug\netcoreapp2.1\CleanUpDevicesSample.runtimeconfig.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\CleanUpDevicesSample\bin\Debug\netcoreapp2.1\CleanUpDevicesSample.runtimeconfig.dev.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\CleanUpDevicesSample\bin\Debug\netcoreapp2.1\CleanUpDevicesSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\CleanUpDevicesSample\bin\Debug\netcoreapp2.1\CleanUpDevicesSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\CleanUpDevicesSample\obj\Debug\netcoreapp2.1\CleanUpDevicesSample.csprojAssemblyReference.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\CleanUpDevicesSample\obj\Debug\netcoreapp2.1\CleanUpDevicesSample.csproj.CoreCompileInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\CleanUpDevicesSample\obj\Debug\netcoreapp2.1\CleanUpDevicesSample.AssemblyInfoInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\CleanUpDevicesSample\obj\Debug\netcoreapp2.1\CleanUpDevicesSample.AssemblyInfo.cs
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\CleanUpDevicesSample\obj\Debug\netcoreapp2.1\CleanUpDevicesSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\CleanUpDevicesSample\obj\Debug\netcoreapp2.1\CleanUpDevicesSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\CleanUpDevicesSample\obj\Debug\netcoreapp2.1\CleanUpDevicesSample.genruntimeconfig.cache

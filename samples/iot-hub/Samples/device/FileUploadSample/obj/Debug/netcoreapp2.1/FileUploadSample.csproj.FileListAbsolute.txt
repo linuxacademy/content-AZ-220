@@ -1,0 +1,13 @@
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\FileUploadSample\bin\Debug\netcoreapp2.1\TestPayload.txt
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\FileUploadSample\bin\Debug\netcoreapp2.1\FileUploadSample.deps.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\FileUploadSample\bin\Debug\netcoreapp2.1\FileUploadSample.runtimeconfig.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\FileUploadSample\bin\Debug\netcoreapp2.1\FileUploadSample.runtimeconfig.dev.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\FileUploadSample\bin\Debug\netcoreapp2.1\FileUploadSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\FileUploadSample\bin\Debug\netcoreapp2.1\FileUploadSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\FileUploadSample\obj\Debug\netcoreapp2.1\FileUploadSample.csprojAssemblyReference.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\FileUploadSample\obj\Debug\netcoreapp2.1\FileUploadSample.csproj.CoreCompileInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\FileUploadSample\obj\Debug\netcoreapp2.1\FileUploadSample.AssemblyInfoInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\FileUploadSample\obj\Debug\netcoreapp2.1\FileUploadSample.AssemblyInfo.cs
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\FileUploadSample\obj\Debug\netcoreapp2.1\FileUploadSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\FileUploadSample\obj\Debug\netcoreapp2.1\FileUploadSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\FileUploadSample\obj\Debug\netcoreapp2.1\FileUploadSample.genruntimeconfig.cache

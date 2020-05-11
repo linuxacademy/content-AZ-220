@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\iotdev\\Source\\azure-iot-samples-csharp\\iot-hub\\Samples\\device\\DeviceStreamingSample\\DeviceClientStreamingSample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\iotdev\\Source\\azure-iot-samples-csharp\\iot-hub\\Samples\\device\\DeviceStreamingSample\\DeviceClientStreamingSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iotdev\\Source\\azure-iot-samples-csharp\\iot-hub\\Samples\\device\\DeviceStreamingSample\\DeviceClientStreamingSample.csproj",
+        "projectName": "DeviceClientStreamingSample",
+        "projectPath": "C:\\Users\\iotdev\\Source\\azure-iot-samples-csharp\\iot-hub\\Samples\\device\\DeviceStreamingSample\\DeviceClientStreamingSample.csproj",
+        "packagesPath": "C:\\Users\\iotdev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iotdev\\Source\\azure-iot-samples-csharp\\iot-hub\\Samples\\device\\DeviceStreamingSample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\iotdev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.Azure.Devices.Client": {
+              "target": "Package",
+              "version": "[1.29.0-preview-*, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "System.Net.WebSockets.Client": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

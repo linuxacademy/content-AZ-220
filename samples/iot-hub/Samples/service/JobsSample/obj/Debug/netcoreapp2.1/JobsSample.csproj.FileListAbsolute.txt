@@ -1,0 +1,12 @@
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\JobsSample\bin\Debug\netcoreapp2.1\JobsSample.deps.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\JobsSample\bin\Debug\netcoreapp2.1\JobsSample.runtimeconfig.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\JobsSample\bin\Debug\netcoreapp2.1\JobsSample.runtimeconfig.dev.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\JobsSample\bin\Debug\netcoreapp2.1\JobsSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\JobsSample\bin\Debug\netcoreapp2.1\JobsSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\JobsSample\obj\Debug\netcoreapp2.1\JobsSample.csprojAssemblyReference.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\JobsSample\obj\Debug\netcoreapp2.1\JobsSample.csproj.CoreCompileInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\JobsSample\obj\Debug\netcoreapp2.1\JobsSample.AssemblyInfoInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\JobsSample\obj\Debug\netcoreapp2.1\JobsSample.AssemblyInfo.cs
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\JobsSample\obj\Debug\netcoreapp2.1\JobsSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\JobsSample\obj\Debug\netcoreapp2.1\JobsSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\JobsSample\obj\Debug\netcoreapp2.1\JobsSample.genruntimeconfig.cache

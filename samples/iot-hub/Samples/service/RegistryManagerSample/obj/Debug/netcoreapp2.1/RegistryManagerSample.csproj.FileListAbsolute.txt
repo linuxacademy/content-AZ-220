@@ -1,0 +1,12 @@
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\RegistryManagerSample\bin\Debug\netcoreapp2.1\RegistryManagerSample.deps.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\RegistryManagerSample\bin\Debug\netcoreapp2.1\RegistryManagerSample.runtimeconfig.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\RegistryManagerSample\bin\Debug\netcoreapp2.1\RegistryManagerSample.runtimeconfig.dev.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\RegistryManagerSample\bin\Debug\netcoreapp2.1\RegistryManagerSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\RegistryManagerSample\bin\Debug\netcoreapp2.1\RegistryManagerSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\RegistryManagerSample\obj\Debug\netcoreapp2.1\RegistryManagerSample.csproj.CoreCompileInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\RegistryManagerSample\obj\Debug\netcoreapp2.1\RegistryManagerSample.AssemblyInfoInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\RegistryManagerSample\obj\Debug\netcoreapp2.1\RegistryManagerSample.AssemblyInfo.cs
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\RegistryManagerSample\obj\Debug\netcoreapp2.1\RegistryManagerSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\RegistryManagerSample\obj\Debug\netcoreapp2.1\RegistryManagerSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\RegistryManagerSample\obj\Debug\netcoreapp2.1\RegistryManagerSample.genruntimeconfig.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\service\RegistryManagerSample\obj\Debug\netcoreapp2.1\RegistryManagerSample.csprojAssemblyReference.cache

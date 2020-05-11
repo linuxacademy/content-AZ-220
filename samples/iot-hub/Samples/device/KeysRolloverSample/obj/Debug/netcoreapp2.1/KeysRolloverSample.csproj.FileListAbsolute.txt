@@ -1,0 +1,12 @@
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\KeysRolloverSample\bin\Debug\netcoreapp2.1\KeysRolloverSample.deps.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\KeysRolloverSample\bin\Debug\netcoreapp2.1\KeysRolloverSample.runtimeconfig.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\KeysRolloverSample\bin\Debug\netcoreapp2.1\KeysRolloverSample.runtimeconfig.dev.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\KeysRolloverSample\bin\Debug\netcoreapp2.1\KeysRolloverSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\KeysRolloverSample\bin\Debug\netcoreapp2.1\KeysRolloverSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\KeysRolloverSample\obj\Debug\netcoreapp2.1\KeysRolloverSample.csprojAssemblyReference.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\KeysRolloverSample\obj\Debug\netcoreapp2.1\KeysRolloverSample.csproj.CoreCompileInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\KeysRolloverSample\obj\Debug\netcoreapp2.1\KeysRolloverSample.AssemblyInfoInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\KeysRolloverSample\obj\Debug\netcoreapp2.1\KeysRolloverSample.AssemblyInfo.cs
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\KeysRolloverSample\obj\Debug\netcoreapp2.1\KeysRolloverSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\KeysRolloverSample\obj\Debug\netcoreapp2.1\KeysRolloverSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\KeysRolloverSample\obj\Debug\netcoreapp2.1\KeysRolloverSample.genruntimeconfig.cache

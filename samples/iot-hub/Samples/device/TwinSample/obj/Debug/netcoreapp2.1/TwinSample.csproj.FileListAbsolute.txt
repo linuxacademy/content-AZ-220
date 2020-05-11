@@ -1,0 +1,12 @@
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\TwinSample\bin\Debug\netcoreapp2.1\TwinSample.deps.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\TwinSample\bin\Debug\netcoreapp2.1\TwinSample.runtimeconfig.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\TwinSample\bin\Debug\netcoreapp2.1\TwinSample.runtimeconfig.dev.json
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\TwinSample\bin\Debug\netcoreapp2.1\TwinSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\TwinSample\bin\Debug\netcoreapp2.1\TwinSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\TwinSample\obj\Debug\netcoreapp2.1\TwinSample.csprojAssemblyReference.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\TwinSample\obj\Debug\netcoreapp2.1\TwinSample.csproj.CoreCompileInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\TwinSample\obj\Debug\netcoreapp2.1\TwinSample.AssemblyInfoInputs.cache
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\TwinSample\obj\Debug\netcoreapp2.1\TwinSample.AssemblyInfo.cs
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\TwinSample\obj\Debug\netcoreapp2.1\TwinSample.dll
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\TwinSample\obj\Debug\netcoreapp2.1\TwinSample.pdb
+C:\Users\iotdev\Source\azure-iot-samples-csharp\iot-hub\Samples\device\TwinSample\obj\Debug\netcoreapp2.1\TwinSample.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "N18z5At6/ANtD9SdsIHyTPdr6Vz7FrRoadq7uTYFJZWSE5FpAqvrMI6KpfeFCi21fodCUUB+bM9W8Kvo0TaDLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iotdev\\.nuget\\packages\\microsoft.azure.devices.provisioning.security.tpm\\1.2.2\\microsoft.azure.devices.provisioning.security.tpm.1.2.2.nupkg.sha512",
+    "C:\\Users\\iotdev\\.nuget\\packages\\microsoft.azure.devices.shared\\1.20.0\\microsoft.azure.devices.shared.1.20.0.nupkg.sha512",
+    "C:\\Users\\iotdev\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\2.6.0-beta2\\microsoft.codeanalysis.fxcopanalyzers.2.6.0-beta2.nupkg.sha512",
+    "C:\\Users\\iotdev\\.nuget\\packages\\microsoft.codequality.analyzers\\2.6.0-beta2\\microsoft.codequality.analyzers.2.6.0-beta2.nupkg.sha512",
+    "C:\\Users\\iotdev\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\iotdev\\.nuget\\packages\\microsoft.netcore.analyzers\\2.6.0-beta2\\microsoft.netcore.analyzers.2.6.0-beta2.nupkg.sha512",
+    "C:\\Users\\iotdev\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\iotdev\\.nuget\\packages\\microsoft.netframework.analyzers\\2.6.0-beta2\\microsoft.netframework.analyzers.2.6.0-beta2.nupkg.sha512",
+    "C:\\Users\\iotdev\\.nuget\\packages\\microsoft.tss\\2.1.1\\microsoft.tss.2.1.1.nupkg.sha512",
+    "C:\\Users\\iotdev\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\iotdev\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\iotdev\\.nuget\\packages\\text.analyzers\\2.6.0-beta2\\text.analyzers.2.6.0-beta2.nupkg.sha512"
+  ],
+  "logs": []
+}
