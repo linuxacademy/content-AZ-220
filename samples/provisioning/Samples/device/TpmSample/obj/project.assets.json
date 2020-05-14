@@ -6192,11 +6192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\provisioning\\Samples\\device\\TpmSample\\TpmSample.csproj",
+      "projectUniqueName": "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\provisioning\\Samples\\device\\TpmSample\\TpmSample.csproj",
       "projectName": "TpmSample",
-      "projectPath": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\provisioning\\Samples\\device\\TpmSample\\TpmSample.csproj",
+      "projectPath": "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\provisioning\\Samples\\device\\TpmSample\\TpmSample.csproj",
       "packagesPath": "C:\\Users\\iotdev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\provisioning\\Samples\\device\\TpmSample\\obj\\",
+      "outputPath": "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\provisioning\\Samples\\device\\TpmSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6216,8 +6216,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj": {
-              "projectPath": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj"
+            "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj": {
+              "projectPath": "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj"
             }
           }
         }

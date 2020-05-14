@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\provisioning\\Samples\\device\\X509Sample\\X509Sample.csproj": {}
+    "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\provisioning\\Samples\\device\\X509Sample\\X509Sample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\provisioning\\Samples\\device\\X509Sample\\X509Sample.csproj": {
+    "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\provisioning\\Samples\\device\\X509Sample\\X509Sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\provisioning\\Samples\\device\\X509Sample\\X509Sample.csproj",
+        "projectUniqueName": "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\provisioning\\Samples\\device\\X509Sample\\X509Sample.csproj",
         "projectName": "X509Sample",
-        "projectPath": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\provisioning\\Samples\\device\\X509Sample\\X509Sample.csproj",
+        "projectPath": "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\provisioning\\Samples\\device\\X509Sample\\X509Sample.csproj",
         "packagesPath": "C:\\Users\\iotdev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\provisioning\\Samples\\device\\X509Sample\\obj\\",
+        "outputPath": "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\provisioning\\Samples\\device\\X509Sample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

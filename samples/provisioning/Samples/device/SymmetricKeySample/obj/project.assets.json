@@ -7033,11 +7033,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\provisioning\\Samples\\device\\SymmetricKeySample\\SymmetricKeySample.csproj",
+      "projectUniqueName": "C:\\Users\\iotdev\\source\\repos\\content-AZ-220\\samples\\provisioning\\Samples\\device\\SymmetricKeySample\\SymmetricKeySample.csproj",
       "projectName": "SymmetricKeySample",
-      "projectPath": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\provisioning\\Samples\\device\\SymmetricKeySample\\SymmetricKeySample.csproj",
+      "projectPath": "C:\\Users\\iotdev\\source\\repos\\content-AZ-220\\samples\\provisioning\\Samples\\device\\SymmetricKeySample\\SymmetricKeySample.csproj",
       "packagesPath": "C:\\Users\\iotdev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\provisioning\\Samples\\device\\SymmetricKeySample\\obj\\",
+      "outputPath": "C:\\Users\\iotdev\\source\\repos\\content-AZ-220\\samples\\provisioning\\Samples\\device\\SymmetricKeySample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

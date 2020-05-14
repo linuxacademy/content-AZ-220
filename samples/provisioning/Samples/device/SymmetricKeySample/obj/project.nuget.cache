@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "djRH+E8zi5cgl/HJy/846qggLG7euu0gmcm4zxScBUfEGHg4uLyrllm0yOkIiEwOfgT7M9/WMvxgrVlCiwjQeQ==",
+  "dgSpecHash": "YF8UwBhYUl2kkusUSI5WoWzvXkSG+FCgV/1B8hL4iUUKR3ZaYUnqatBtg77kiaH07IEjOu/s7vClwsrS75JdjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\provisioning\\Samples\\device\\SymmetricKeySample\\SymmetricKeySample.csproj",
+  "projectFilePath": "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\provisioning\\Samples\\device\\SymmetricKeySample\\SymmetricKeySample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iotdev\\.nuget\\packages\\dotnetty.buffers\\0.6.0\\dotnetty.buffers.0.6.0.nupkg.sha512",
     "C:\\Users\\iotdev\\.nuget\\packages\\dotnetty.codecs\\0.6.0\\dotnetty.codecs.0.6.0.nupkg.sha512",

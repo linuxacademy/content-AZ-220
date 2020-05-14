@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N18z5At6/ANtD9SdsIHyTPdr6Vz7FrRoadq7uTYFJZWSE5FpAqvrMI6KpfeFCi21fodCUUB+bM9W8Kvo0TaDLw==",
+  "dgSpecHash": "6Y/bxUgqFcRgoLPO0L5oMFbMtNXtWYVSHRkiZQpyafTfZVQAec7GQGL8AqqO+APyWuNlA3a+iGoQgk7H97JjjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iotdev\\source\\repos\\acg-az-220-samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj",
+  "projectFilePath": "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iotdev\\.nuget\\packages\\microsoft.azure.devices.provisioning.security.tpm\\1.2.2\\microsoft.azure.devices.provisioning.security.tpm.1.2.2.nupkg.sha512",
     "C:\\Users\\iotdev\\.nuget\\packages\\microsoft.azure.devices.shared\\1.20.0\\microsoft.azure.devices.shared.1.20.0.nupkg.sha512",
