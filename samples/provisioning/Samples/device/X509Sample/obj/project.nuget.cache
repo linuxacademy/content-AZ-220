@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZzgMFmLZrwXlvvpX2u6gkswHcEOrizusNAwfsKy+h+POEMISnhoCh0oJKrPGQ/ecPCcVP2Q1EyTbsh5rdwZaaA==",
+  "dgSpecHash": "4kkC3bGFoyzzWhrqMVBzBbSKbCRZdafI5/2b3cliBS2lwvcd2zPqxEMbXAGCavakZi1NIOo6HobI+A1v8EHGmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\provisioning\\Samples\\device\\X509Sample\\X509Sample.csproj",
+  "projectFilePath": "C:\\Users\\iotdev\\source\\repos\\content-AZ-220\\samples\\provisioning\\Samples\\device\\X509Sample\\X509Sample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iotdev\\.nuget\\packages\\dotnetty.buffers\\0.6.0\\dotnetty.buffers.0.6.0.nupkg.sha512",
     "C:\\Users\\iotdev\\.nuget\\packages\\dotnetty.codecs\\0.6.0\\dotnetty.codecs.0.6.0.nupkg.sha512",

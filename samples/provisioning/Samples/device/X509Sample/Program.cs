@@ -20,6 +20,16 @@ namespace Microsoft.Azure.Devices.Provisioning.Client.Samples
         // - set the DPS_IDSCOPE environment variable 
         // - create a launchSettings.json (see launchSettings.json.template) containing the variable
         private static string s_idScope = Environment.GetEnvironmentVariable("DPS_IDSCOPE");
+        private const string GlobalDeviceEndpoint = "global.azure-devices-provisioning.net";
+       
+        //registration id for enrollment groups can be chosen arbitrarily and do not require any portal setup. 
+        //The chosen value will become the provisioned device's device id.
+        //
+        //registration id for individual enrollments must be retrieved from the portal and will be unrelated to the provioned
+        //device's device id
+        //
+        //This field is mandatory to provide for this sample
+        private static string s_registrationID;
 
         // In your Device Provisioning Service please go to "Manage enrollments" and select "Individual Enrollments".
         // Select "Add individual enrollment" then fill in the following:
@@ -39,9 +49,7 @@ namespace Microsoft.Azure.Devices.Provisioning.Client.Samples
         //    choose CA certificate then link primary and secondary certificates 
         //    OR choose Intermediate certificate and upload primary and secondary certificate files
         // You may also change other enrollemtn group parameters according to your needs
-
-        private const string GlobalDeviceEndpoint = "global.azure-devices-provisioning.net";
-        private static string s_certificateFileName = "certificate.pfx";
+        private static string s_certificateFileName;
 
         public static int Main(string[] args)
         {
@@ -52,13 +60,24 @@ namespace Microsoft.Azure.Devices.Provisioning.Client.Samples
 
             if (string.IsNullOrWhiteSpace(s_idScope))
             {
-                Console.WriteLine("ProvisioningDeviceClientX509 <IDScope>");
+                Console.WriteLine("ProvisioningDeviceClientSymmetricKey <IDScope> <registrationID>");
+                return 1;
+            }
+
+            if (string.IsNullOrWhiteSpace(s_registrationID) && (args.Length > 1))
+            {
+                s_registrationID = args[1];               
+                s_certificateFileName = s_registrationID + ".pfx";
+            }
+            if (string.IsNullOrWhiteSpace(s_registrationID))
+            {
+                Console.WriteLine("ProvisioningDeviceClientSymmetricKey <IDScope> <registrationID>");
                 return 1;
             }
 
             //X509Certificate2 certificate = LoadProvisioningCertificate();
 
-            var myCertificate = new X509Certificate2("sajdevice1.pfx", "1234");
+            var myCertificate = new X509Certificate2(s_certificateFileName, "1234");
             var myChain = new X509Certificate2Collection();
 
             //myChain.Import("azure-iot-test-only.chain.ca.cert.pem");

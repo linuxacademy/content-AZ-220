@@ -6,6 +6,7 @@ using Microsoft.Azure.Devices.Provisioning.Client.Transport;
 using Microsoft.Azure.Devices.Provisioning.Security.Samples;
 using Microsoft.Azure.Devices.Shared;
 using System;
+using System.Text;
 
 namespace Microsoft.Azure.Devices.Provisioning.Client.Samples
 {
@@ -18,9 +19,21 @@ namespace Microsoft.Azure.Devices.Provisioning.Client.Samples
         // - set the DPS_IDSCOPE environment variable 
         // - create a launchSettings.json (see launchSettings.json.template) containing the variable
         private static string s_idScope = Environment.GetEnvironmentVariable("DPS_IDSCOPE");
-
-        private const string RegistrationId = "testtpmregistration1";
         private const string GlobalDeviceEndpoint = "global.azure-devices-provisioning.net";
+
+        // The following creates a random device registration ID
+        // so that this sample can be used multiple times
+        // without changing code. - SAJ
+        private static Random rnd = new Random();
+        private static string[] deviceNames = { "Conway", "Loretta", "Dolly", "Kenny",
+                "Waylon", "Jessie", "Merle", "Willie",
+                "Johnny" };
+
+        // Generate random indexes for pet names.
+        private static int mIndex = rnd.Next(deviceNames.Length);
+        private static int fIndex = rnd.Next(1000);
+
+        private static string s_registrationID = "device-" + deviceNames[mIndex] + "-" + fIndex;
         
         public static int Main(string[] args)
         {
@@ -40,7 +53,7 @@ namespace Microsoft.Azure.Devices.Provisioning.Client.Samples
             SecurityProviderTpmSimulator.StartSimulatorProcess();
 
             // Replace the following type with SecurityProviderTpmHsm() to use a real TPM2.0 device.
-            using (var security = new SecurityProviderTpmSimulator(RegistrationId))
+            using (var security = new SecurityProviderTpmSimulator(s_registrationID))
 
             // Select one of the available transports:
             // To optimize for size, reference only the protocols used by your application.
@@ -57,11 +70,11 @@ namespace Microsoft.Azure.Devices.Provisioning.Client.Samples
                     "'Individual Enrollments'. Select 'Add' then fill in the following:");
 
                 Console.WriteLine("\tMechanism: TPM");
-                Console.WriteLine($"\tRegistration ID: {RegistrationId}");
                 Console.WriteLine($"\tEndorsement key: {base64EK}");
-                Console.WriteLine("\tDevice ID: iothubtpmdevice1 (or any other valid DeviceID)");
+                Console.WriteLine($"\tRegistration ID: {s_registrationID}");
+                Console.WriteLine($"\tDevice ID: {s_registrationID} (or any other valid DeviceID)");
                 Console.WriteLine();
-                Console.WriteLine("Press ENTER when ready.");
+                Console.WriteLine("Press ENTER once enrollment has been created.");
                 Console.ReadLine();
 
                 ProvisioningDeviceClient provClient =
@@ -71,6 +84,10 @@ namespace Microsoft.Azure.Devices.Provisioning.Client.Samples
                 sample.RunSampleAsync().GetAwaiter().GetResult();
             }
 
+            // Remove if a real TPM is being used.
+            Console.ForegroundColor = ConsoleColor.White; Console.WriteLine("Stopping TPM simulator.");
+            SecurityProviderTpmSimulator.StopSimulatorProcess();
+            
             return 0;
         }
     }

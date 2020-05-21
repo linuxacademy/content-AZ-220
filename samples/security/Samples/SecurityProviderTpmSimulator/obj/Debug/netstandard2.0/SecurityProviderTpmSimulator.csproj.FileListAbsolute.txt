@@ -9,3 +9,14 @@ C:\Users\iotdev\Source\azure-iot-samples-csharp\security\Samples\SecurityProvide
 C:\Users\iotdev\Source\azure-iot-samples-csharp\security\Samples\SecurityProviderTpmSimulator\obj\Debug\netstandard2.0\SecurityProviderTpmSimulator.AssemblyInfo.cs
 C:\Users\iotdev\Source\azure-iot-samples-csharp\security\Samples\SecurityProviderTpmSimulator\obj\Debug\netstandard2.0\SecurityProviderTpmSimulator.dll
 C:\Users\iotdev\Source\azure-iot-samples-csharp\security\Samples\SecurityProviderTpmSimulator\obj\Debug\netstandard2.0\SecurityProviderTpmSimulator.pdb
+C:\Users\iotdev\source\repos\content-AZ-220\samples\security\Samples\SecurityProviderTpmSimulator\bin\Debug\netstandard2.0\TpmSimulator\Simulator.exe
+C:\Users\iotdev\source\repos\content-AZ-220\samples\security\Samples\SecurityProviderTpmSimulator\bin\Debug\netstandard2.0\TpmSimulator\Tpm.dll
+C:\Users\iotdev\source\repos\content-AZ-220\samples\security\Samples\SecurityProviderTpmSimulator\bin\Debug\netstandard2.0\SecurityProviderTpmSimulator.deps.json
+C:\Users\iotdev\source\repos\content-AZ-220\samples\security\Samples\SecurityProviderTpmSimulator\bin\Debug\netstandard2.0\SecurityProviderTpmSimulator.dll
+C:\Users\iotdev\source\repos\content-AZ-220\samples\security\Samples\SecurityProviderTpmSimulator\bin\Debug\netstandard2.0\SecurityProviderTpmSimulator.pdb
+C:\Users\iotdev\source\repos\content-AZ-220\samples\security\Samples\SecurityProviderTpmSimulator\obj\Debug\netstandard2.0\SecurityProviderTpmSimulator.csprojAssemblyReference.cache
+C:\Users\iotdev\source\repos\content-AZ-220\samples\security\Samples\SecurityProviderTpmSimulator\obj\Debug\netstandard2.0\SecurityProviderTpmSimulator.csproj.CoreCompileInputs.cache
+C:\Users\iotdev\source\repos\content-AZ-220\samples\security\Samples\SecurityProviderTpmSimulator\obj\Debug\netstandard2.0\SecurityProviderTpmSimulator.AssemblyInfoInputs.cache
+C:\Users\iotdev\source\repos\content-AZ-220\samples\security\Samples\SecurityProviderTpmSimulator\obj\Debug\netstandard2.0\SecurityProviderTpmSimulator.AssemblyInfo.cs
+C:\Users\iotdev\source\repos\content-AZ-220\samples\security\Samples\SecurityProviderTpmSimulator\obj\Debug\netstandard2.0\SecurityProviderTpmSimulator.dll
+C:\Users\iotdev\source\repos\content-AZ-220\samples\security\Samples\SecurityProviderTpmSimulator\obj\Debug\netstandard2.0\SecurityProviderTpmSimulator.pdb

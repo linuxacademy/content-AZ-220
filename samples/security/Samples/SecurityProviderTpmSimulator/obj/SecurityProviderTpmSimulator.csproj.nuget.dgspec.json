@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj": {}
+    "C:\\Users\\iotdev\\source\\repos\\content-AZ-220\\samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj": {
+    "C:\\Users\\iotdev\\source\\repos\\content-AZ-220\\samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj",
+        "projectUniqueName": "C:\\Users\\iotdev\\source\\repos\\content-AZ-220\\samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj",
         "projectName": "SecurityProviderTpmSimulator",
-        "projectPath": "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj",
+        "projectPath": "C:\\Users\\iotdev\\source\\repos\\content-AZ-220\\samples\\security\\Samples\\SecurityProviderTpmSimulator\\SecurityProviderTpmSimulator.csproj",
         "packagesPath": "C:\\Users\\iotdev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iotdev\\Source\\Repos\\content-AZ-220\\samples\\security\\Samples\\SecurityProviderTpmSimulator\\obj\\",
+        "outputPath": "C:\\Users\\iotdev\\source\\repos\\content-AZ-220\\samples\\security\\Samples\\SecurityProviderTpmSimulator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
