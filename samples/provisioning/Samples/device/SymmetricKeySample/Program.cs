@@ -115,8 +115,7 @@ namespace SymmetricKeySample
                 var sample = new ProvisioningDeviceClientSample(provClient, security);
                 sample.RunSampleAsync().GetAwaiter().GetResult();
             }
-            Console.WriteLine("Enter any key to exit");
-            Console.ReadLine();
+            
             return 0;
         }
 
