@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Simulated IoT device using device twins.",
   "main": "test-device-twin.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/linuxacademy/content-AZ-220.git"
@@ -15,11 +13,18 @@
   "bugs": {
     "url": "https://github.com/linuxacademy/content-AZ-220/issues"
   },
-  "homepage": "https://github.com/linuxacademy/content-AZ-220#readme",
+  "homepage": "https://github.com/linuxacademy/content",
   "dependencies": {
-    "chalk": "2.4.1",
-    "azure-iot-device": "^1.7.1",
-    "azure-iot-device-mqtt": "^1.7.1",
+    "async": "^3.2.3",
+    "azure-iot-device": "1.18.1",
+    "azure-iot-device-amqp": "1.14.1",
+    "azure-iot-device-http": "1.14.1",
+    "azure-iot-device-mqtt": "1.16.1",
+    "azure-iot-provisioning-device": "1.9.1",
+    "azure-iot-provisioning-device-mqtt": "1.8.1",
+    "azure-iot-security-symmetric-key": "1.8.1",
+    "https-proxy-agent": "^5.0.0",
+    "lodash": "^4.17.21",
     "azure-iothub": "^1.7.1"
   }
 }
